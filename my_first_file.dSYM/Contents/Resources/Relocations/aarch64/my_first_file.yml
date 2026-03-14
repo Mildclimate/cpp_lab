@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/xieboheng/Dev/cpp_lab/my_first_file'
+relocations:     []
+...

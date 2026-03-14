@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "Mac", // 配置名称
+      "includePath": [
+        "${workspaceFolder}/src", // 添加 src 目录到头文件搜索路径
+        "/usr/local/include" // 系统头文件路径
+      ],
+      "defines": [],
+      "cppStandard": "c++17", // C++ 标准
+      "intelliSenseMode": "macos-gcc-x64" // IntelliSense 模式
+    }
+  ],
+  "version": 4
+}
